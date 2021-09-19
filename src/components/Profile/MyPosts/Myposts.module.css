@@ -1,0 +1,12 @@
+.postBlock{
+    padding-left: 20px;
+}
+
+.posts{
+    padding-left: 20px;
+}
+
+.PostTextarea {
+    width:300px;
+    height:150px;
+}

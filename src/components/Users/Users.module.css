@@ -1,0 +1,41 @@
+.main {
+    background-color: antiquewhite;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.paragraph {
+    padding-left: 20px;
+}
+
+.userWrapper {
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    grid-gap: 5px;
+    margin: 20px;
+    font-size: 14px;
+}
+
+.avatarBlock {
+    display: grid;
+    justify-content: center;
+    margin: 10px;
+}
+
+.avatarImg {
+    width: 100px;
+    border-radius: 50px;
+}
+
+.followButton {
+    margin: 10px;
+}
+
+.userBlock {
+    margin: 10px;
+}
+
+.locationBlock {
+    margin: 10px;
+    font-size: 12px;
+}

@@ -1,0 +1,12 @@
+.area {
+    grid-area: hr;
+  /*  justify-self: end;
+    align-self: center;*/
+}
+
+.loginBlock {
+    padding-top: 20px;
+    padding-right: 20px;
+    text-align: end;
+    -webkit-text-stroke-width: medium;
+}

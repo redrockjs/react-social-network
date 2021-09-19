@@ -1,0 +1,14 @@
+.area {
+    grid-area: n;
+    background-color: burlywood;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.h2 {
+    padding-left: 20px;
+}
+
+.menu {
+    list-style-type: none;
+}
